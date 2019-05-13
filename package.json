@@ -1,0 +1,29 @@
+{
+    "name": "package",
+    "version": "1.0.0",
+    "description": "JS Package Spotlight",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shiyu3169/package.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/shiyu3169/package/issues"
+    },
+    "homepage": "https://github.com/shiyu3169/package#readme",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "config": "^3.1.0",
+        "jwt-simple": "^0.5.6",
+        "moment": "^2.24.0",
+        "request": "^2.88.0",
+        "slug": "^1.1.0",
+        "uuid": "^3.3.2"
+    }
+}
